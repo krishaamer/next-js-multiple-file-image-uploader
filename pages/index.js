@@ -16,19 +16,19 @@ const Index = () => {
         <div className="upload-bottom">
           <div className="lists">
             <div className="boxes">
-              <div class="box">
+              <div className="box">
                 <img src="/house/house1.jpg" />
               </div>
-              <div class="box">
+              <div className="box">
                 <img src="/house/house2.jpg" />
               </div>
-              <div class="box">
+              <div className="box">
                 <img src="/house/house3.jpg" />
               </div>
-              <div class="box">
+              <div className="box">
                 <img src="/house/house4.jpg" />
               </div>
-              <div class="box">
+              <div className="box">
                 <img src="/house/house5.jpg" />
               </div>
             </div>
